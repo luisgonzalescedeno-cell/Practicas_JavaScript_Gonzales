@@ -24,7 +24,7 @@ function sumar() {
 }
 function obtener_suma() {
     var n1 = document.getElementById("suma").value;
-    alert(a);
+    alert(n1);
 }
 function obtener_texto() {
     var a = document.getElementById("h2").textContent;
